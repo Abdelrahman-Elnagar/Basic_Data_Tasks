@@ -11,3 +11,5 @@ Learn the basics of essential data science libraries:
 ### Matplotlib: For creating static, animated, and interactive visualizations.
 ### Scikit-learn: For machine learning and data mining tasks.
 This repository serves as a practical guide for beginners in data science, providing a starting point for further exploration and learning. By working through the examples provided, users can gain a solid understanding of essential data science techniques and tools.
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
